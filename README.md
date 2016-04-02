@@ -4,7 +4,7 @@ A central file-sharing solution for your organization
 ## Basic Functionalities
 - Browse, Search Files
 - File Upload, Download ( All file types supported, Requires login )
-- Edit File ( Name, Description can be edited; File itself can be replaced by a newer version or another file, Requires Login )
+- Edit File ( Name, Description can be edited; File itself can be replaced by a newer version or another file, Requires Login)
 - For users with 'manager' role : Files and User management.
 
 ## To-Do ( coming soon )
